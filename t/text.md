@@ -1,14 +1,17 @@
-Manuel, the Magnificent Mechanical Man: A novel. Book One
-=======================================================
+Manuel, the Magnificent Mechanical Man: A novel.
+==================================
 
 Prologue
 -----------
 
-This novel is released under a free license. Please check [its web for
+This novel is released under a free license, please check [its web for
 details](http://github.com/JJ/hoborg). You can help by proof-reading,
 forking (that is, creating your very own copy and changing it to your
-liking), or just talking about it.  You can follow its evolution [in
-Twitter @hoborg_novel](http://twitter.com/hoborg_novel). 
+liking) or just talking about it.  You can follow events related to it [in
+Twitter @hoborg_novel](http://twitter.com/hoborg_novel) and
+[Facebook](https://www.facebook.com/ManuelTheMagnificent) and also, if
+you like it, buy it in any of the Amazon instances, for instance
+[in Amazon.com](https://www.amazon.com/dp/B00ED084BK/ref=as_li_ss_til?tag=perltutobyjjmere&camp=0&creative=0&linkCode=as4&creativeASIN=B00ED084BK&adid=16QNPK4SMEZDPPSBY44Q&). 
 
 
 Meet the mechanical man
@@ -22,12 +25,12 @@ And I'm using *he* liberally here, since I'm talking about a
 mechanical man. A mechanical being. A mechanical... gimmick that looks
 like a man.
 
-I didn't really liked it, or even the idea of it, but I had no other
+I didn't really liked it or even the idea of it, but I had no other
 way out than be attached to it. On the other hand, the
 public... filled with brothers, of my own race, of the other races
 that had been oppressed since they arrived to this land or since the
 paleface newcomers arrived. Even palefaces, because all races are one
-and the same in the People's Republic, ain't that?
+and the same in the People's Republic, ain't it?
 
 But I am not a paleface, because my name is Fulgencio
 Rivera and  I was born and raised in California from a Guatemalan mother and
@@ -2922,51 +2925,60 @@ With the hobos around the fire
 
 "I'm gonna get me one of those dummies, I'm gonna do it" The first
 hobo announced, with just a hint of a threat in his voice, veiled by
-the amount of moonshine he had already taken. José sat slumped a few
-steps away from the fire, out of fuel or simply not working. Fulgencio
+the amount of moonshine he had already taken. Manuel sat slumped a few
+steps away from the fire, out of fuel or simply not working. Frank,
+also known as Fulgencio
 just spat at the fire, raising a small flame that made José look alive
 for a brief moment. 
 
-Fulgencio had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
+Frank had found this group in the rail yard in Tallahassee, trying to be unobtrusive. But there was no
 way he could pull that out while 
 being trailed by a two hundred and fifty pound walking cash register.
 He was immediately hailed by them and asked to join them by the
-fire even before they saw the Duke. Liquor was passed, bread and cheese shared, and histories
+fire even before they saw the Duke. Liquor was passed, bread and
+cheese shared, mulligan stew cooked and histories
 and local tips swapped. Then, more alcohol had flowed and everything
 became a bit blurry as Fulgencio started to tell them his history, as
 hobos do when gathered around the fire. 
 
-Now it was time to leave this jungle and deliver. Enough time had passed for any
-pursuer to quiet down and in a few hours he would be contacting the
+Now it was time to leave this jungle and deliver the goods. And it was
+not going to be in a coal train to somewhere, but by foot to the city
+they were in.
+Enough time had passed for any
+pursuer to quiet down and in a few hours he would be reporting at the
 Pinkerton office in Tallahassee. They would be taking care of him and
 the mech and he would get a few months of rest in his home base in
-Albuquerque. 
+Albuquerque. And he eventually would get to meet his parents and a few
+friends.
 
 He loaded Manuel in a buggy, secured it with ropes and covered it with
-burlap and blankets he'd gathered these days in the jungle. It was
-heavy, tiring work but the best way to go unnoticed when he walked to
-downtown.
+burlap pieces and blankets he had gathered these past few days in the jungle. It was
+heavy, tiring work best left to beast or to Manuel himself but the best way to go unnoticed when he made his
+way walking towards downtown.
 
-He left the switchyard to a convenient opening the hobos had shown him
-and started to drag the buggy towards the city. Nobody noticed him and
-nobody paid attention to him, he could be any collective farm  or
-factory worker doing an errand in the middle of the day. He passed
+He left the switchyard through a convenient opening the hobos had shown him
+and started to drag the buggy towards the city. Nobody noticed him
+getting out and
+nobody paid him any attention after that, he could be any worker from
+a collective farm  or
+factory  doing an errand in the middle of the day. He passed
 armed guards, party officials in uniform, American refugees begging,
-being this town close to the border, it would not take long before
-they were picked up by guards and forcefully assigned some job
+being this town close to the border; it would not take long before
+they were picked up by Guards and forcefully assigned some job
 somewhere. Quite a few cars surrounded by smoke plied the streets, but
-there were even more bicycles. 
+there were even more bicycles and more than a few horse-drawn carriages. 
 
-From Railroad avenue he made a right in Neamathla street, where he
-noticed some armed mechs guarding the doors of the official buildings there. They had that tarnished
+From Railroad Avenue he made a right in Neamathla street, where he
+noticed some armed mechs guarding the doors of the official buildings
+there. They had that tarnished 
 look, and the legs, Manuel had had at the beginning of its life, but
 their arms ended in blunt guns and sharp bayonets. When he went past
 them, Manuel started to shake and move towards them with its wheels,
-all by itself. It was well tied and it didn't manage to get himself
+all by itself. It was well tied and it did not manage to worry himself
 loose, but if he kept trying for a while he would probably manage to
 do it. And the mechs were starting to turn their heads in their
 direction. That wasn't good. He started to hurry, but there was not
-much he could do with so many pounds in drag. Pinkerton office was not
+much he could do with so many pounds in tow. Pinkerton office was not
 so far away, at All Races and Boulevard St. a couple of blocks away,
 but he was seeing a few more mech guards and he doubted he could make
 it.
@@ -3038,32 +3050,37 @@ He'd lost sight of the white muddy truck with Manuel on it.
 
 "What now?" Said Frank.
 
-"In a couple of days you're taking the airship to Albuquerque, take
-one week, or two, and report to the office there." 
+"In a couple of days you're traveling  to Albuquerque via airship and
+a few stops in the middle. Don't worry, it's going to be safe and, for
+the time being, nobody seems to have missed a mechanical man
+anywhere, although the circus may have reported your other identity
+missing for work. No big deal, anyways. When you've arrived there,  take
+one week, or two, and then report to the office." 
 
-"I knew that, man. I meant what happens to Manuel." 
+"I knew that, man. I meant what is going to happen to Manuel." 
 
 Gary smiled broadly.
 
 "I don't think you should be concerned with that. You mission is over,
-and we are all very grateful for it. But I can tell you that he's been
+and we are all very grateful for it, your country is too, and you'll
+be duly rewarded. But I can tell you that he's going to be
 taken to one such Doctor Tesla for examinations. And then, who knows."
 
-"This Doc. Will he break it up? It's working perfectly, you know."
+"This Doc. Will that doc break it up? It's working perfectly, you know."
 Frank Said.
 
 "Of course it is, my good boy, of course it is. What it's not is your
-concern right now. Take a rest now, write your reports when you're
-done, and then go back home." Said Gary, giving him the back and
+concern right now or any time in the future. Take a rest now, write your reports when you're
+done with that, and then go back home." Said Gary, giving him the back and
 returning to the office. He motioned the man who had come with
 him. "Clark, show him around and keep him comfortable, cuddle him if
 he asks to. He's a hero of the democracy and the American dream, you
 know."
 
-"And who isn't?" Answered Clark. "C'mon, boy, it's over now, let's
+"And who isn't?" Clark said. "C'mon, boy, it's over now, let's
 go."
 
-"Yes, over and out. All over and all out." Answered Frank, and he
+"Yes, over and out. All over and all out." Answered Frank. He
 accompanied Clark without saying another word.
 
 *revise*
